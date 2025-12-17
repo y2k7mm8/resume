@@ -128,6 +128,15 @@ const Resume = () => {
                 ></div>
               </div>
             </div>
+            <div className="mb-4">
+              <p className="text-gray-600">React & Vite</p>
+              <div className="w-full bg-gray-200 h-2 rounded">
+                <div
+                  className="bg-gray-600 h-2 rounded"
+                  style={{ width: "70%" }}
+                ></div>
+              </div>
+            </div>
 
             <h2 className="text-lg sm:text-xl font-bold mb-4 mt-6 text-center sm:text-left">
               СПЕЦИАЛИЗАЦИЯ
